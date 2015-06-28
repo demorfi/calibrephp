@@ -30,7 +30,7 @@ This will make the application available on port 8888 on the dockerhost. You can
 * [x] Dockerize the application
 * [x] Multiple language support
 * [x] Reading epub and pdf in browser
-* [ ] Synology spk package
+* [ ] Synology spk package (Available in [spksrc](https://github.com/demorfi/spksrc) package calibrephp)
 * [x] User management
 
 ## Docs and Demo
